@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-cloudtrail:1.11.119">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudtrail/1.11.119/16171677db943ed149783e90ff98f8a01c39d0f9/aws-java-sdk-cloudtrail-1.11.119.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudtrail/1.11.119/cb5f72f091c6ffd2faa48cace9b5bbf147281059/aws-java-sdk-cloudtrail-1.11.119-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

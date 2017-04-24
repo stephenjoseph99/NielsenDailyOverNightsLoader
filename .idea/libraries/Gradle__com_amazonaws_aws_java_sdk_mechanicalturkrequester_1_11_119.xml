@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-mechanicalturkrequester:1.11.119">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mechanicalturkrequester/1.11.119/ca2fed14097f0b8d30689268155a29f5937f530f/aws-java-sdk-mechanicalturkrequester-1.11.119.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mechanicalturkrequester/1.11.119/af4e6521006c370d5b4241e1c41d46db9a836145/aws-java-sdk-mechanicalturkrequester-1.11.119-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

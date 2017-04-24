@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-marketplacemeteringservice:1.11.119">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-marketplacemeteringservice/1.11.119/3825af21f55fb8c03bef5cba4d29dbebb532466f/aws-java-sdk-marketplacemeteringservice-1.11.119.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-marketplacemeteringservice/1.11.119/3932ded19a5c93aa6a8e22ef74a031c660997667/aws-java-sdk-marketplacemeteringservice-1.11.119-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
