@@ -90,7 +90,7 @@ public class NielsenLoaderMain {
          //debug
         //System.out.println(sqlstatement);
 
-
+        //change this
         String str_filename = dir + "\\FMLivePlus3 04-18-2017 to 04-18-2017.csv";
         CSVReader reader = new CSVReader(new FileReader(str_filename), ',' , '"' , 6);
 
